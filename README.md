@@ -5,14 +5,13 @@ I'm iOS Software Engineer.
 
 ### Current Github crushes
 
-|[@musamuss]|[@nataliapanferova]|[@jordansinger]|[@vmanot]|
+|[@musamuss]|[@bestK1ngArthur]|[@jordansinger]|[@vmanot]|
 |:----------:|:-----------------:|:-------------:|:-------:|
-|![@musamuss](https://github.com/musamuss.png?size=170)|![@nataliapanferova](https://github.com/nataliapanferova.png?size=170)|![@jordansinger](https://github.com/jordansinger.png?size=170)|![@vmanot](https://github.com/vmanot.png?size=170)|
+|![@musamuss](https://github.com/musamuss.png?size=170)|![@bestK1ngArthur](https://github.com/bestK1ngArthur.png?size=170)|
 
 [@musamuss]: https://github.com/musamuss
-[@nataliapanferova]: https://github.com/nataliapanferova
-[@jordansinger]: https://github.com/jordansinger
-[@vmanot]: https://github.com/vmanot
+[@bestK1ngArthur]: https://github.com/bestK1ngArthur
+
 
 ### About me
 
