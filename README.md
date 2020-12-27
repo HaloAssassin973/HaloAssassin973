@@ -5,8 +5,8 @@ I'm iOS Software Engineer.
 
 ### Current Github crushes
 
-|[@musamuss]|[@bestK1ngArthur]|[@jordansinger]|[@vmanot]|
-|:----------:|:-----------------:|:-------------:|:-------:|
+|[@musamuss]|[@bestK1ngArthur]|
+|:----------:|:-----------------:|
 |![@musamuss](https://github.com/musamuss.png?size=170)|![@bestK1ngArthur](https://github.com/bestK1ngArthur.png?size=170)|
 
 [@musamuss]: https://github.com/musamuss
